@@ -2,12 +2,11 @@
   margin-bottom:100px;
   font-family: Tahoma;
   font-size: 50px;
-  margin-left:50px;
   margin-top:50px;
 }
 body {
-  background-color: #2e3130;
-  color: white;
+  background-color: #d7d7d7;
+  color: #2a2a2a;
 }
 .content {
   margin-left: 100px;
